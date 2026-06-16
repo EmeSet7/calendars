@@ -2,7 +2,7 @@ import requests
 import re
 from datetime import datetime, timezone
 
-ICS_FILE = "F1_2026.ics"
+ICS_FILE = "f12026.ics"
 OPENF1_BASE = "https://api.openf1.org/v1"
 
 def get_latest_session():
