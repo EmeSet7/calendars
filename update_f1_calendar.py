@@ -3,45 +3,49 @@ import re
 from datetime import datetime, timezone
 
 ICS_FILE = "f12026.ics"
-OPENF1_BASE = "https://api.openf1.org/v1"
+BASE = "https://api.openf1.org/v1"
 
-def get_latest_session():
-    """Get the most recent race session."""
-    r = requests.get(f"{OPENF1_BASE}/sessions", params={
-        "year": 2026,
-        "session_name": "Race",
-    })
-    sessions = r.json()
-    if not sessions:
-        return None
-    # Filter past sessions only
+def get(endpoint, params={}):
+    r = requests.get(f"{BASE}/{endpoint}", params=params, timeout=10)
+    r.raise_for_status()
+    return r.json()
+
+def get_latest_race_session():
+    sessions = get("sessions", {"year": 2026, "session_name": "Race"})
     now = datetime.now(timezone.utc)
-    past = [s for s in sessions if datetime.fromisoformat(s["date_end"].replace("Z", "+00:00")) < now]
+    past = [
+        s for s in sessions
+        if s.get("date_end") and
+        datetime.fromisoformat(s["date_end"].replace("Z", "+00:00")) < now
+    ]
     if not past:
         return None
     return sorted(past, key=lambda s: s["date_end"])[-1]
 
 def get_podium(session_key):
-    """Get top 3 finishers for a session."""
-    r = requests.get(f"{OPENF1_BASE}/position", params={
-        "session_key": session_key,
-        "position<=": 3,
-    })
-    positions = r.json()
-    # Get final position for each driver (last entry per driver)
+    # Get final positions - take last recorded position per driver
+    positions = get("position", {"session_key": session_key})
+    if not positions or not isinstance(positions[0], dict):
+        print("Unexpected position data format")
+        return []
+
+    # Keep last entry per driver
     by_driver = {}
     for p in positions:
-        by_driver[p["driver_number"]] = p
-    top3 = sorted([p for p in by_driver.values() if p["position"] <= 3], key=lambda x: x["position"])
+        dn = p.get("driver_number")
+        if dn:
+            by_driver[dn] = p
+
+    # Filter top 3
+    top3 = sorted(
+        [p for p in by_driver.values() if p.get("position") in [1, 2, 3]],
+        key=lambda x: x["position"]
+    )
 
     podium = []
     for p in top3:
-        driver_r = requests.get(f"{OPENF1_BASE}/drivers", params={
-            "session_key": session_key,
-            "driver_number": p["driver_number"],
-        })
-        drivers = driver_r.json()
-        if drivers:
+        drivers = get("drivers", {"session_key": session_key, "driver_number": p["driver_number"]})
+        if drivers and isinstance(drivers[0], dict):
             d = drivers[0]
             podium.append({
                 "position": p["position"],
@@ -50,69 +54,61 @@ def get_podium(session_key):
             })
     return podium
 
-def update_ics(session, podium):
-    """Update the race event in the ICS file with podium results."""
+def update_ics(gp_name, round_num, podium):
     if not podium:
-        print("No podium data found.")
+        print("No podium data.")
         return
 
-    gp_name = session.get("meeting_name", "")
-    round_num = session.get("meeting_key", "")
+    winner = podium[0]
+    winner_last = winner["name"].split()[-1]
+    team = winner["team"]
 
     medals = ["🥇", "🥈", "🥉"]
-    podium_text = "\\n".join(
+    podium_lines = "\\n".join(
         f"{medals[p['position']-1]} {p['name']} ({p['team']})"
         for p in podium
     )
-    winner = podium[0]
-    winner_short = winner["name"].split()[-1]  # Last name
-    team_short = winner["team"]
 
     with open(ICS_FILE, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # Find and update the race event summary (title) - look for matching GP name pattern
-    # Match race events that don't already have a winner
-    race_summary_pattern = re.compile(
-        r'(SUMMARY:🏁 F1 R\d+ — ' + re.escape(gp_name) + r' GP · )(.*?)(\n)',
-        re.IGNORECASE
+    # Match race summary line for this round
+    pattern = re.compile(
+        rf'(SUMMARY:🏁 F1 R{round_num} — .+? · )(.+?)(\n)'
     )
-
-    # Update summary with winner
-    new_summary = rf'\g<1>{winner_short} wins ({team_short})\3'
-    content, n = re.subn(race_summary_pattern, new_summary, content)
+    replacement = rf'\g<1>{winner_last} wins ({team})\3'
+    content, n = re.subn(pattern, replacement, content)
 
     if n == 0:
-        print(f"Could not find race event for: {gp_name}")
+        print(f"Could not find R{round_num} race event in ICS.")
         return
 
-    # Update description with podium
-    desc_pattern = re.compile(
-        r'(DESCRIPTION:Round \d+ · Race\\n.*?\\n)(.*?)(\\n\nLOCATION)',
-        re.DOTALL
-    )
-    # Replace description podium block
     with open(ICS_FILE, "w", encoding="utf-8") as f:
         f.write(content)
 
-    print(f"Updated: {gp_name} GP — Winner: {winner['name']}")
+    print(f"✅ Updated R{round_num} {gp_name}: {winner['name']} wins ({team})")
+    for p in podium:
+        print(f"  {p['position']}. {p['name']} ({p['team']})")
 
 def main():
-    print("Fetching latest F1 race session...")
-    session = get_latest_session()
+    print("Fetching latest completed race session...")
+    session = get_latest_race_session()
     if not session:
-        print("No completed race sessions found.")
+        print("No completed races found.")
         return
 
-    print(f"Found: {session.get('meeting_name')} GP (key: {session.get('session_key')})")
+    gp_name = session.get("meeting_name") or session.get("country_name") or "Unknown"
+    session_key = session["session_key"]
+    round_num = session.get("meeting_key", "?")
 
-    podium = get_podium(session["session_key"])
+    print(f"Session: {gp_name} (key: {session_key}, meeting: {round_num})")
+
+    podium = get_podium(session_key)
     if not podium:
         print("Could not retrieve podium.")
         return
 
-    print("Podium:", [(p["position"], p["name"]) for p in podium])
-    update_ics(session, podium)
+    update_ics(gp_name, round_num, podium)
 
 if __name__ == "__main__":
     main()
