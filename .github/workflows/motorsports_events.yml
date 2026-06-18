@@ -1,0 +1,955 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# MOTORSPORTS CALENDAR — 2026
+# Everything on 4 wheels (+ rally raids). No F1, no MotoGP.
+#
+# series keys:
+#   NASCAR    — Cup Series
+#   NASCAR_B  — O'Reilly Auto Parts Series (ex-Xfinity)
+#   NASCAR_T  — Craftsman Truck Series
+#   WEC       — FIA World Endurance Championship
+#   IMSA      — IMSA WeatherTech SportsCar Championship
+#   IGTC      — Intercontinental GT Challenge
+#   GTWCE     — GT World Challenge Europe
+#   24H       — Standalone marquee 24h / endurance races
+#   SUPERCARS — Repco Supercars Championship (V8)
+#   DTM       — Deutsche Tourenwagen Masters
+#   TCR       — TCR World Tour
+#   RALLY     — Dakar / Rally-Raid
+#
+# All times UTC. Use 00:00 for all-day / TBC events.
+# done: true = already run
+# ─────────────────────────────────────────────────────────────────────────────
+
+events:
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # JANUARY
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: RALLY
+    name: "Dakar Rally 2026 — Saudi Arabia"
+    venue: "Multiple stages, Saudi Arabia"
+    location: "Yanbu → Yanbu, Saudi Arabia"
+    start: "2026-01-03T06:00:00Z"
+    end:   "2026-01-17T18:00:00Z"
+    done: true
+
+  - series: IMSA
+    name: "Rolex 24 at Daytona"
+    venue: "Daytona International Speedway"
+    location: "Daytona Beach, FL, USA"
+    start: "2026-01-24T22:00:00Z"
+    end:   "2026-01-25T22:00:00Z"
+    done: true
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # FEBRUARY
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: IGTC
+    name: "Meguiar's Bathurst 12 Hour"
+    venue: "Mount Panorama Circuit"
+    location: "Bathurst, NSW, Australia"
+    start: "2026-02-14T22:30:00Z"
+    end:   "2026-02-15T10:30:00Z"
+    done: true
+
+  - series: NASCAR_T
+    name: "Fresh From Florida 250 — Daytona"
+    venue: "Daytona International Speedway"
+    location: "Daytona Beach, FL, USA"
+    start: "2026-02-14T00:30:00Z"
+    end:   "2026-02-14T03:00:00Z"
+    done: true
+
+  - series: NASCAR_B
+    name: "O'Reilly Auto Parts Series — Daytona"
+    venue: "Daytona International Speedway"
+    location: "Daytona Beach, FL, USA"
+    start: "2026-02-14T22:00:00Z"
+    end:   "2026-02-15T01:30:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Cook Out Clash — Bowman Gray"
+    venue: "Bowman Gray Stadium"
+    location: "Winston-Salem, NC, USA"
+    start: "2026-02-04T23:00:00Z"
+    end:   "2026-02-05T02:00:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Daytona 500 ★"
+    venue: "Daytona International Speedway"
+    location: "Daytona Beach, FL, USA"
+    start: "2026-02-15T19:30:00Z"
+    end:   "2026-02-15T23:30:00Z"
+    done: true
+
+  - series: NASCAR_T
+    name: "Fr8 Racing 208 — Atlanta"
+    venue: "EchoPark Speedway"
+    location: "Hampton, GA, USA"
+    start: "2026-02-21T18:30:00Z"
+    end:   "2026-02-21T21:00:00Z"
+    done: true
+
+  - series: NASCAR_B
+    name: "O'Reilly Auto Parts Series — Atlanta"
+    venue: "EchoPark Speedway"
+    location: "Hampton, GA, USA"
+    start: "2026-02-22T22:00:00Z"
+    end:   "2026-02-23T01:30:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Autotrader 400 — Atlanta"
+    venue: "EchoPark Speedway"
+    location: "Hampton, GA, USA"
+    start: "2026-02-22T20:00:00Z"
+    end:   "2026-02-22T23:30:00Z"
+    done: true
+
+  - series: NASCAR_T
+    name: "OnlyBulls Green Flag 150 — St. Petersburg"
+    venue: "Streets of St. Petersburg"
+    location: "St. Petersburg, FL, USA"
+    start: "2026-02-28T17:00:00Z"
+    end:   "2026-02-28T19:30:00Z"
+    done: true
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # MARCH
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: NASCAR_B
+    name: "O'Reilly Auto Parts Series — COTA"
+    venue: "Circuit of The Americas"
+    location: "Austin, TX, USA"
+    start: "2026-03-01T19:30:00Z"
+    end:   "2026-03-01T22:00:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "DuraMax Grand Prix — COTA"
+    venue: "Circuit of The Americas"
+    location: "Austin, TX, USA"
+    start: "2026-03-01T20:30:00Z"
+    end:   "2026-03-01T23:30:00Z"
+    done: true
+
+  - series: IMSA
+    name: "Mobil 1 Twelve Hours of Sebring"
+    venue: "Sebring International Raceway"
+    location: "Sebring, FL, USA"
+    start: "2026-03-21T10:00:00Z"
+    end:   "2026-03-21T22:00:00Z"
+    done: true
+
+  - series: NASCAR_T
+    name: "Buckle Up South Carolina 200 — Darlington"
+    venue: "Darlington Raceway"
+    location: "Darlington, SC, USA"
+    start: "2026-03-21T00:30:00Z"
+    end:   "2026-03-21T02:30:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Straight Talk Wireless 500 — Phoenix"
+    venue: "Phoenix Raceway"
+    location: "Avondale, AZ, USA"
+    start: "2026-03-08T00:30:00Z"
+    end:   "2026-03-08T03:30:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Pennzoil 400 — Las Vegas"
+    venue: "Las Vegas Motor Speedway"
+    location: "Las Vegas, NV, USA"
+    start: "2026-03-15T20:00:00Z"
+    end:   "2026-03-15T23:30:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Goodyear 400 — Darlington"
+    venue: "Darlington Raceway"
+    location: "Darlington, SC, USA"
+    start: "2026-03-22T19:00:00Z"
+    end:   "2026-03-22T22:30:00Z"
+    done: true
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # APRIL
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: GTWCE
+    name: "6 Hours of Paul Ricard — GTWCE Endurance"
+    venue: "Circuit Paul Ricard"
+    location: "Le Castellet, France"
+    start: "2026-04-11T09:00:00Z"
+    end:   "2026-04-11T15:00:00Z"
+    done: true
+
+  - series: WEC
+    name: "6 Hours of Imola"
+    venue: "Imola Circuit"
+    location: "Imola, Italy"
+    start: "2026-04-19T10:00:00Z"
+    end:   "2026-04-19T16:00:00Z"
+    done: true
+
+  - series: IMSA
+    name: "Acura Grand Prix of Long Beach"
+    venue: "Long Beach Street Circuit"
+    location: "Long Beach, CA, USA"
+    start: "2026-04-18T22:00:00Z"
+    end:   "2026-04-19T00:00:00Z"
+    done: true
+
+  - series: DTM
+    name: "DTM — Red Bull Ring"
+    venue: "Red Bull Ring"
+    location: "Spielberg, Austria"
+    start: "2026-04-24T09:00:00Z"
+    end:   "2026-04-26T17:00:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Cook Out 400 — Martinsville"
+    venue: "Martinsville Speedway"
+    location: "Martinsville, VA, USA"
+    start: "2026-03-29T19:30:00Z"
+    end:   "2026-03-29T22:30:00Z"
+    done: true
+
+  - series: NASCAR_T
+    name: "Black's Tire 200 — Rockingham"
+    venue: "Rockingham Speedway"
+    location: "Rockingham, NC, USA"
+    start: "2026-04-03T20:30:00Z"
+    end:   "2026-04-03T23:00:00Z"
+    done: true
+
+  - series: NASCAR_B
+    name: "O'Reilly Auto Parts Series — Rockingham"
+    venue: "Rockingham Speedway"
+    location: "Rockingham, NC, USA"
+    start: "2026-04-04T19:30:00Z"
+    end:   "2026-04-04T22:00:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Food City 500 — Bristol"
+    venue: "Bristol Motor Speedway"
+    location: "Bristol, TN, USA"
+    start: "2026-04-12T19:30:00Z"
+    end:   "2026-04-12T23:00:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Duramax Drydene 400 — Kansas"
+    venue: "Kansas Speedway"
+    location: "Kansas City, KS, USA"
+    start: "2026-04-19T19:30:00Z"
+    end:   "2026-04-19T23:00:00Z"
+    done: true
+
+  - series: SUPERCARS
+    name: "Supercars — Sydney Motorsport Park"
+    venue: "Sydney Motorsport Park"
+    location: "Eastern Creek, NSW, Australia"
+    start: "2026-02-20T01:00:00Z"
+    end:   "2026-02-22T09:00:00Z"
+    done: true
+
+  - series: SUPERCARS
+    name: "Supercars — Symmons Plains"
+    venue: "Symmons Plains Raceway"
+    location: "Launceston, TAS, Australia"
+    start: "2026-05-22T01:00:00Z"
+    end:   "2026-05-24T09:00:00Z"
+    done: false
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # MAY
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: NASCAR
+    name: "GEICO 500 — Talladega"
+    venue: "Talladega Superspeedway"
+    location: "Talladega, AL, USA"
+    start: "2026-04-26T19:30:00Z"
+    end:   "2026-04-26T23:00:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "AutoNation 400 — Texas"
+    venue: "Texas Motor Speedway"
+    location: "Fort Worth, TX, USA"
+    start: "2026-05-03T19:30:00Z"
+    end:   "2026-05-03T23:00:00Z"
+    done: true
+
+  - series: NASCAR_T
+    name: "SpeedyCash.com 250 — Texas"
+    venue: "Texas Motor Speedway"
+    location: "Fort Worth, TX, USA"
+    start: "2026-05-02T01:00:00Z"
+    end:   "2026-05-02T03:00:00Z"
+    done: true
+
+  - series: IMSA
+    name: "StubHub Monterey SportsCar Championship"
+    venue: "WeatherTech Raceway Laguna Seca"
+    location: "Monterey, CA, USA"
+    start: "2026-05-03T20:00:00Z"
+    end:   "2026-05-03T22:45:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Wurth 400 — Dover"
+    venue: "Dover Motor Speedway"
+    location: "Dover, DE, USA"
+    start: "2026-05-17T19:30:00Z"
+    end:   "2026-05-17T23:00:00Z"
+    done: true
+
+  - series: NASCAR_T
+    name: "Truck Series — Watkins Glen"
+    venue: "Watkins Glen International"
+    location: "Watkins Glen, NY, USA"
+    start: "2026-05-08T20:30:00Z"
+    end:   "2026-05-08T23:00:00Z"
+    done: true
+
+  - series: WEC
+    name: "6 Hours of Spa-Francorchamps"
+    venue: "Circuit de Spa-Francorchamps"
+    location: "Spa, Belgium"
+    start: "2026-05-09T10:00:00Z"
+    end:   "2026-05-09T16:00:00Z"
+    done: true
+
+  - series: IGTC
+    name: "24 Hours of Nürburgring (IGTC)"
+    venue: "Nürburgring Nordschleife"
+    location: "Nürburg, Germany"
+    start: "2026-05-16T15:00:00Z"
+    end:   "2026-05-17T15:00:00Z"
+    done: true
+
+  - series: GTWCE
+    name: "3 Hours of Monza — GTWCE Endurance"
+    venue: "Autodromo Nazionale Monza"
+    location: "Monza, Italy"
+    start: "2026-05-31T10:00:00Z"
+    end:   "2026-05-31T13:00:00Z"
+    done: true
+
+  - series: DTM
+    name: "DTM — Zandvoort"
+    venue: "Circuit Zandvoort"
+    location: "Zandvoort, Netherlands"
+    start: "2026-05-22T09:00:00Z"
+    end:   "2026-05-24T17:00:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Coca-Cola 600 — Charlotte"
+    venue: "Charlotte Motor Speedway"
+    location: "Concord, NC, USA"
+    start: "2026-05-24T20:00:00Z"
+    end:   "2026-05-25T00:30:00Z"
+    done: true
+
+  - series: IMSA
+    name: "Chevrolet Detroit Sports Car Classic"
+    venue: "Detroit Street Circuit"
+    location: "Detroit, MI, USA"
+    start: "2026-05-30T18:00:00Z"
+    end:   "2026-05-30T19:45:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Ambetter Health 400 — Nashville"
+    venue: "Nashville Superspeedway"
+    location: "Lebanon, TN, USA"
+    start: "2026-05-31T20:00:00Z"
+    end:   "2026-05-31T23:30:00Z"
+    done: true
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # JUNE
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: DTM
+    name: "DTM — Lausitzring"
+    venue: "DEKRA Lausitzring"
+    location: "Klettwitz, Germany"
+    start: "2026-06-19T09:00:00Z"
+    end:   "2026-06-21T17:00:00Z"
+    done: false
+
+  - series: NASCAR_T
+    name: "Truck Series — Michigan"
+    venue: "Michigan International Speedway"
+    location: "Brooklyn, MI, USA"
+    start: "2026-06-06T18:30:00Z"
+    end:   "2026-06-06T21:00:00Z"
+    done: true
+
+  - series: NASCAR
+    name: "Ally 400 — Nashville"
+    venue: "Nashville Superspeedway"
+    location: "Lebanon, TN, USA"
+    start: "2026-06-07T20:00:00Z"
+    end:   "2026-06-07T23:30:00Z"
+    done: true
+
+  - series: WEC
+    name: "24 Hours of Le Mans ★"
+    venue: "Circuit de la Sarthe"
+    location: "Le Mans, France"
+    start: "2026-06-13T14:00:00Z"
+    end:   "2026-06-14T14:00:00Z"
+    done: true
+
+  - series: GTWCE
+    name: "24 Hours of Spa — GTWCE Endurance / IGTC"
+    venue: "Circuit de Spa-Francorchamps"
+    location: "Spa, Belgium"
+    start: "2026-06-27T14:00:00Z"
+    end:   "2026-06-28T14:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Great American Getaway 400 — Pocono"
+    venue: "Pocono Raceway"
+    location: "Long Pond, PA, USA"
+    start: "2026-06-14T19:00:00Z"
+    end:   "2026-06-14T23:00:00Z"
+    done: true
+
+  - series: SUPERCARS
+    name: "betr Darwin Triple Crown"
+    venue: "Hidden Valley Raceway"
+    location: "Darwin, NT, Australia"
+    start: "2026-06-19T01:00:00Z"
+    end:   "2026-06-21T09:00:00Z"
+    done: false
+
+  - series: NASCAR_T
+    name: "Truck Series — San Diego (Street)"
+    venue: "Qualcomm Circuit, Naval Base Coronado"
+    location: "San Diego, CA, USA"
+    start: "2026-06-20T00:00:00Z"
+    end:   "2026-06-20T02:30:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Anduril 250 — San Diego Street Race"
+    venue: "Qualcomm Circuit, Naval Base Coronado"
+    location: "San Diego, CA, USA"
+    start: "2026-06-21T21:00:00Z"
+    end:   "2026-06-22T01:00:00Z"
+    done: false
+
+  - series: IMSA
+    name: "Sahlen's Six Hours of The Glen"
+    venue: "Watkins Glen International"
+    location: "Watkins Glen, NY, USA"
+    start: "2026-06-28T15:10:00Z"
+    end:   "2026-06-28T21:10:00Z"
+    done: false
+
+  - series: NASCAR_B
+    name: "O'Reilly Auto Parts Series — Sonoma"
+    venue: "Sonoma Raceway"
+    location: "Sonoma, CA, USA"
+    start: "2026-06-27T21:30:00Z"
+    end:   "2026-06-28T00:30:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Toyota / Save Mart 350 — Sonoma"
+    venue: "Sonoma Raceway"
+    location: "Sonoma, CA, USA"
+    start: "2026-06-28T19:30:00Z"
+    end:   "2026-06-28T23:00:00Z"
+    done: false
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # JULY
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: DTM
+    name: "DTM — Norisring"
+    venue: "Norisring"
+    location: "Nuremberg, Germany"
+    start: "2026-07-03T09:00:00Z"
+    end:   "2026-07-05T17:00:00Z"
+    done: false
+
+  - series: NASCAR_B
+    name: "O'Reilly Auto Parts Series — Chicagoland"
+    venue: "Chicagoland Speedway"
+    location: "Joliet, IL, USA"
+    start: "2026-07-04T21:30:00Z"
+    end:   "2026-07-05T00:30:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "eero 400 — Chicagoland"
+    venue: "Chicagoland Speedway"
+    location: "Joliet, IL, USA"
+    start: "2026-07-05T23:00:00Z"
+    end:   "2026-07-06T02:30:00Z"
+    done: false
+
+  - series: SUPERCARS
+    name: "NTI Townsville 500"
+    venue: "Reid Park Street Circuit"
+    location: "Townsville, QLD, Australia"
+    start: "2026-07-10T01:00:00Z"
+    end:   "2026-07-12T09:00:00Z"
+    done: false
+
+  - series: IMSA
+    name: "Chevrolet Grand Prix — CTMP"
+    venue: "Canadian Tire Motorsport Park"
+    location: "Bowmanville, ON, Canada"
+    start: "2026-07-12T16:00:00Z"
+    end:   "2026-07-12T18:45:00Z"
+    done: false
+
+  - series: WEC
+    name: "6 Hours of São Paulo"
+    venue: "Autódromo José Carlos Pace (Interlagos)"
+    location: "São Paulo, Brazil"
+    start: "2026-07-12T14:00:00Z"
+    end:   "2026-07-12T20:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Quaker State 400 — Atlanta"
+    venue: "EchoPark Speedway"
+    location: "Hampton, GA, USA"
+    start: "2026-07-13T00:00:00Z"
+    end:   "2026-07-13T03:30:00Z"
+    done: false
+
+  - series: GTWCE
+    name: "GTWCE Sprint — Misano"
+    venue: "Misano World Circuit"
+    location: "Misano Adriatico, Italy"
+    start: "2026-07-17T09:00:00Z"
+    end:   "2026-07-19T17:00:00Z"
+    done: false
+
+  - series: NASCAR_T
+    name: "Truck Series — Lime Rock"
+    venue: "Lime Rock Park"
+    location: "Lakeville, CT, USA"
+    start: "2026-07-11T17:00:00Z"
+    end:   "2026-07-11T19:00:00Z"
+    done: false
+
+  - series: NASCAR_T
+    name: "Truck Series — North Wilkesboro"
+    venue: "North Wilkesboro Speedway"
+    location: "North Wilkesboro, NC, USA"
+    start: "2026-07-18T16:30:00Z"
+    end:   "2026-07-18T19:00:00Z"
+    done: false
+
+  - series: NASCAR_B
+    name: "O'Reilly Auto Parts Series — North Wilkesboro"
+    venue: "North Wilkesboro Speedway"
+    location: "North Wilkesboro, NC, USA"
+    start: "2026-07-18T23:00:00Z"
+    end:   "2026-07-19T01:30:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Window World 450 — North Wilkesboro"
+    venue: "North Wilkesboro Speedway"
+    location: "North Wilkesboro, NC, USA"
+    start: "2026-07-20T00:00:00Z"
+    end:   "2026-07-20T03:00:00Z"
+    done: false
+
+  - series: DTM
+    name: "DTM — Oschersleben"
+    venue: "Motorsport Arena Oschersleben"
+    location: "Oschersleben, Germany"
+    start: "2026-07-24T09:00:00Z"
+    end:   "2026-07-26T17:00:00Z"
+    done: false
+
+  - series: NASCAR_T
+    name: "Truck Series — Indianapolis"
+    venue: "Lucas Oil Raceway"
+    location: "Speedway, IN, USA"
+    start: "2026-07-25T01:00:00Z"
+    end:   "2026-07-25T03:00:00Z"
+    done: false
+
+  - series: NASCAR_B
+    name: "O'Reilly Auto Parts Series — Indianapolis"
+    venue: "Indianapolis Motor Speedway"
+    location: "Speedway, IN, USA"
+    start: "2026-07-25T20:00:00Z"
+    end:   "2026-07-25T23:30:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Brickyard 400 — Indianapolis"
+    venue: "Indianapolis Motor Speedway"
+    location: "Speedway, IN, USA"
+    start: "2026-07-26T18:00:00Z"
+    end:   "2026-07-26T22:00:00Z"
+    done: false
+
+  - series: SUPERCARS
+    name: "Bosch Power Tools Perth Super 440"
+    venue: "Wanneroo Raceway"
+    location: "Perth, WA, Australia"
+    start: "2026-07-31T01:00:00Z"
+    end:   "2026-08-02T09:00:00Z"
+    done: false
+
+  - series: GTWCE
+    name: "GTWCE Sprint — Magny-Cours"
+    venue: "Circuit de Nevers Magny-Cours"
+    location: "Magny-Cours, France"
+    start: "2026-07-31T09:00:00Z"
+    end:   "2026-08-02T17:00:00Z"
+    done: false
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # AUGUST
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: IMSA
+    name: "Motul SportsCar Endurance Grand Prix — Road America"
+    venue: "Road America"
+    location: "Elkhart Lake, WI, USA"
+    start: "2026-08-02T14:00:00Z"
+    end:   "2026-08-02T20:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Iowa Corn 350 — Iowa Speedway"
+    venue: "Iowa Speedway"
+    location: "Newton, IA, USA"
+    start: "2026-08-09T19:30:00Z"
+    end:   "2026-08-09T23:00:00Z"
+    done: false
+
+  - series: DTM
+    name: "DTM — Nürburgring"
+    venue: "Nürburgring Grand Prix Circuit"
+    location: "Nürburg, Germany"
+    start: "2026-08-14T09:00:00Z"
+    end:   "2026-08-16T17:00:00Z"
+    done: false
+
+  - series: NASCAR_T
+    name: "Truck Series — Richmond"
+    venue: "Richmond Raceway"
+    location: "Richmond, VA, USA"
+    start: "2026-08-15T00:30:00Z"
+    end:   "2026-08-15T02:30:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Cook Out 400 — Richmond"
+    venue: "Richmond Raceway"
+    location: "Richmond, VA, USA"
+    start: "2026-08-16T00:00:00Z"
+    end:   "2026-08-16T03:30:00Z"
+    done: false
+
+  - series: SUPERCARS
+    name: "Century Batteries Ipswich Super 440"
+    venue: "Queensland Raceway"
+    location: "Ipswich, QLD, Australia"
+    start: "2026-08-21T01:00:00Z"
+    end:   "2026-08-23T09:00:00Z"
+    done: false
+
+  - series: NASCAR_T
+    name: "Truck Series — New Hampshire"
+    venue: "New Hampshire Motor Speedway"
+    location: "Loudon, NH, USA"
+    start: "2026-08-22T17:30:00Z"
+    end:   "2026-08-22T20:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Dollar Tree 301 — New Hampshire"
+    venue: "New Hampshire Motor Speedway"
+    location: "Loudon, NH, USA"
+    start: "2026-08-23T19:00:00Z"
+    end:   "2026-08-23T23:00:00Z"
+    done: false
+
+  - series: IMSA
+    name: "Michelin GT Challenge at VIR"
+    venue: "Virginia International Raceway"
+    location: "Alton, VA, USA"
+    start: "2026-08-23T17:00:00Z"
+    end:   "2026-08-23T19:45:00Z"
+    done: false
+
+  - series: GTWCE
+    name: "3 Hours of Nürburgring — GTWCE Endurance"
+    venue: "Nürburgring Grand Prix Circuit"
+    location: "Nürburg, Germany"
+    start: "2026-08-28T09:00:00Z"
+    end:   "2026-08-28T12:00:00Z"
+    done: false
+
+  - series: NASCAR_B
+    name: "O'Reilly Auto Parts Series — Daytona"
+    venue: "Daytona International Speedway"
+    location: "Daytona Beach, FL, USA"
+    start: "2026-08-28T23:30:00Z"
+    end:   "2026-08-29T02:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Coke Zero Sugar 400 — Daytona"
+    venue: "Daytona International Speedway"
+    location: "Daytona Beach, FL, USA"
+    start: "2026-08-30T00:30:00Z"
+    end:   "2026-08-30T04:00:00Z"
+    done: false
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # SEPTEMBER — NASCAR PLAYOFFS BEGIN
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: NASCAR
+    name: "Cook Out Southern 500 — Darlington ★ PLAYOFF"
+    venue: "Darlington Raceway"
+    location: "Darlington, SC, USA"
+    start: "2026-09-06T21:00:00Z"
+    end:   "2026-09-07T01:00:00Z"
+    done: false
+
+  - series: WEC
+    name: "Lone Star Le Mans — 6h COTA"
+    venue: "Circuit of The Americas"
+    location: "Austin, TX, USA"
+    start: "2026-09-06T18:00:00Z"
+    end:   "2026-09-07T00:00:00Z"
+    done: false
+
+  - series: IGTC
+    name: "Suzuka 1000km (IGTC)"
+    venue: "Suzuka International Racing Course"
+    location: "Suzuka, Japan"
+    start: "2026-09-12T03:00:00Z"
+    end:   "2026-09-12T11:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Enjoy Illinois 300 — St. Louis ★ PLAYOFF"
+    venue: "World Wide Technology Raceway"
+    location: "Madison, IL, USA"
+    start: "2026-09-13T19:00:00Z"
+    end:   "2026-09-13T22:30:00Z"
+    done: false
+
+  - series: DTM
+    name: "DTM — Sachsenring"
+    venue: "Sachsenring"
+    location: "Hohenstein-Ernstthal, Germany"
+    start: "2026-09-11T09:00:00Z"
+    end:   "2026-09-13T17:00:00Z"
+    done: false
+
+  - series: SUPERCARS
+    name: "AirTouch 500 at The Bend"
+    venue: "The Bend Motorsport Park"
+    location: "Tailem Bend, SA, Australia"
+    start: "2026-09-11T01:00:00Z"
+    end:   "2026-09-13T09:00:00Z"
+    done: false
+
+  - series: IMSA
+    name: "Tirerack.com Battle on the Bricks — IMS"
+    venue: "Indianapolis Motor Speedway"
+    location: "Speedway, IN, USA"
+    start: "2026-09-20T17:00:00Z"
+    end:   "2026-09-20T19:45:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Bass Pro Shops Night Race — Bristol ★ PLAYOFF"
+    venue: "Bristol Motor Speedway"
+    location: "Bristol, TN, USA"
+    start: "2026-09-20T00:30:00Z"
+    end:   "2026-09-20T03:30:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Hollywood Casino 400 — Kansas ★ PLAYOFF"
+    venue: "Kansas Speedway"
+    location: "Kansas City, KS, USA"
+    start: "2026-09-27T19:00:00Z"
+    end:   "2026-09-27T23:00:00Z"
+    done: false
+
+  - series: WEC
+    name: "6 Hours of Fuji"
+    venue: "Fuji International Speedway"
+    location: "Oyama, Japan"
+    start: "2026-09-27T03:00:00Z"
+    end:   "2026-09-27T09:00:00Z"
+    done: false
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # OCTOBER
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: SUPERCARS
+    name: "Repco Bathurst 1000 ★"
+    venue: "Mount Panorama Circuit"
+    location: "Bathurst, NSW, Australia"
+    start: "2026-10-08T23:00:00Z"
+    end:   "2026-10-11T09:00:00Z"
+    done: false
+
+  - series: IGTC
+    name: "Indianapolis 8 Hour (IGTC Finale)"
+    venue: "Indianapolis Motor Speedway"
+    location: "Speedway, IN, USA"
+    start: "2026-10-08T13:00:00Z"
+    end:   "2026-10-08T21:00:00Z"
+    done: false
+
+  - series: IMSA
+    name: "Motul Petit Le Mans — Road Atlanta"
+    venue: "Michelin Raceway Road Atlanta"
+    location: "Braselton, GA, USA"
+    start: "2026-10-03T14:00:00Z"
+    end:   "2026-10-04T00:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "South Point 400 — Las Vegas ★ PLAYOFF"
+    venue: "Las Vegas Motor Speedway"
+    location: "Las Vegas, NV, USA"
+    start: "2026-10-04T21:30:00Z"
+    end:   "2026-10-05T01:00:00Z"
+    done: false
+
+  - series: DTM
+    name: "DTM — Hockenheimring (Season Finale)"
+    venue: "Hockenheimring Baden-Württemberg"
+    location: "Hockenheim, Germany"
+    start: "2026-10-09T09:00:00Z"
+    end:   "2026-10-11T17:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Bank of America ROVAL 400 — Charlotte ★ PLAYOFF"
+    venue: "Charlotte Motor Speedway Road Course"
+    location: "Concord, NC, USA"
+    start: "2026-10-11T19:00:00Z"
+    end:   "2026-10-11T23:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "Arizona Lottery 500 — Phoenix ★ PLAYOFF"
+    venue: "Phoenix Raceway"
+    location: "Avondale, AZ, USA"
+    start: "2026-10-18T19:00:00Z"
+    end:   "2026-10-18T23:00:00Z"
+    done: false
+
+  - series: SUPERCARS
+    name: "Supercars Gold Coast 500"
+    venue: "Surfers Paradise Street Circuit"
+    location: "Gold Coast, QLD, Australia"
+    start: "2026-10-23T01:00:00Z"
+    end:   "2026-10-25T09:00:00Z"
+    done: false
+
+  - series: WEC
+    name: "1812km of Qatar"
+    venue: "Lusail International Circuit"
+    location: "Lusail, Qatar"
+    start: "2026-10-24T13:00:00Z"
+    end:   "2026-10-24T23:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "1000Bulbs.com 500 — Talladega ★ PLAYOFF"
+    venue: "Talladega Superspeedway"
+    location: "Talladega, AL, USA"
+    start: "2026-10-25T18:00:00Z"
+    end:   "2026-10-25T22:00:00Z"
+    done: false
+
+  - series: GTWCE
+    name: "GTWCE Sprint — Zandvoort"
+    venue: "Circuit Zandvoort"
+    location: "Zandvoort, Netherlands"
+    start: "2026-09-18T09:00:00Z"
+    end:   "2026-09-20T17:00:00Z"
+    done: false
+
+  - series: GTWCE
+    name: "GTWCE Sprint — Barcelona"
+    venue: "Circuit de Barcelona-Catalunya"
+    location: "Montmeló, Spain"
+    start: "2026-10-02T09:00:00Z"
+    end:   "2026-10-04T17:00:00Z"
+    done: false
+
+  - series: GTWCE
+    name: "3 Hours of Portimão — GTWCE Endurance (Finale)"
+    venue: "Algarve International Circuit"
+    location: "Portimão, Portugal"
+    start: "2026-10-16T09:00:00Z"
+    end:   "2026-10-16T12:00:00Z"
+    done: false
+
+  # ══════════════════════════════════════════════════════════════════════════
+  # NOVEMBER
+  # ══════════════════════════════════════════════════════════════════════════
+
+  - series: NASCAR
+    name: "Xfinity 500 — Martinsville ★ PLAYOFF"
+    venue: "Martinsville Speedway"
+    location: "Martinsville, VA, USA"
+    start: "2026-11-01T19:00:00Z"
+    end:   "2026-11-01T23:00:00Z"
+    done: false
+
+  - series: WEC
+    name: "8 Hours of Bahrain — WEC Season Finale ★"
+    venue: "Bahrain International Circuit"
+    location: "Sakhir, Bahrain"
+    start: "2026-11-07T11:00:00Z"
+    end:   "2026-11-07T19:00:00Z"
+    done: false
+
+  - series: NASCAR
+    name: "NASCAR Championship Race — Homestead-Miami ★"
+    venue: "Homestead-Miami Speedway"
+    location: "Homestead, FL, USA"
+    start: "2026-11-08T20:00:00Z"
+    end:   "2026-11-09T00:00:00Z"
+    done: false
+
+  - series: SUPERCARS
+    name: "Supercars Adelaide — Season Finale"
+    venue: "Adelaide Street Circuit"
+    location: "Adelaide, SA, Australia"
+    start: "2026-11-26T23:00:00Z"
+    end:   "2026-11-29T09:00:00Z"
+    done: false
