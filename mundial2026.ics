@@ -291,7 +291,7 @@ BEGIN:VEVENT
 UID:mundial2026-29@tiago
 DTSTART:20260619T190000Z
 DTEND:20260619T210000Z
-SUMMARY:🇺🇸 Estados Unidos x Austrália
+SUMMARY:🇺🇸 Estados Unidos x Austrália (2-0)
 DESCRIPTION:Fase de Grupos - Grupo D - Jornada 2 | Mundial 2026
 LOCATION:Philadelphia
 STATUS:CONFIRMED
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 UID:mundial2026-30@tiago
 DTSTART:20260619T220000Z
 DTEND:20260620T000000Z
-SUMMARY:Escócia x Marrocos
+SUMMARY:Escócia x Marrocos (0-1)
 DESCRIPTION:Fase de Grupos - Grupo C - Jornada 2 | Mundial 2026
 LOCATION:EUA
 STATUS:CONFIRMED
@@ -311,7 +311,7 @@ BEGIN:VEVENT
 UID:mundial2026-31@tiago
 DTSTART:20260620T000000Z
 DTEND:20260620T023000Z
-SUMMARY:🇧🇷 Brasil x Haiti
+SUMMARY:🇧🇷 Brasil x Haiti (3-0)
 DESCRIPTION:Fase de Grupos - Grupo C - Jornada 2 | Mundial 2026\nOnde ver: Sport TV 1 / LiveModeTV (YouTube - gratuito)
 LOCATION:EUA
 STATUS:CONFIRMED
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 UID:mundial2026-32@tiago
 DTSTART:20260620T030000Z
 DTEND:20260620T050000Z
-SUMMARY:Turquia x Paraguai
+SUMMARY:Turquia x Paraguai (0-1)
 DESCRIPTION:Fase de Grupos - Grupo D - Jornada 2 | Mundial 2026
 LOCATION:EUA
 STATUS:CONFIRMED
