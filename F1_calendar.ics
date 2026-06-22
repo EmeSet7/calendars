@@ -1,0 +1,998 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tiago Cardoso//F1 Calendar Auto-Update//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Formula 1
+
+BEGIN:VEVENT
+UID:f1-11227@tiago
+DTSTART:20260306T013000Z
+DTEND:20260306T023000Z
+SUMMARY:🔧 F1 R1 — Australian GP · Practice 1
+DESCRIPTION:Round 1 · Practice 1\nCircuit: Melbourne
+LOCATION:Melbourne\, Melbourne\, Australia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11228@tiago
+DTSTART:20260306T050000Z
+DTEND:20260306T060000Z
+SUMMARY:🔧 F1 R1 — Australian GP · Practice 2
+DESCRIPTION:Round 1 · Practice 2\nCircuit: Melbourne
+LOCATION:Melbourne\, Melbourne\, Australia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11229@tiago
+DTSTART:20260307T013000Z
+DTEND:20260307T023000Z
+SUMMARY:🔧 F1 R1 — Australian GP · Practice 3
+DESCRIPTION:Round 1 · Practice 3\nCircuit: Melbourne
+LOCATION:Melbourne\, Melbourne\, Australia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11230@tiago
+DTSTART:20260307T050000Z
+DTEND:20260307T060000Z
+SUMMARY:📍 F1 R1 — Australian GP · Qualifying
+DESCRIPTION:Round 1 · Qualifying\nCircuit: Melbourne
+LOCATION:Melbourne\, Melbourne\, Australia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11234@tiago
+DTSTART:20260308T040000Z
+DTEND:20260308T060000Z
+SUMMARY:🏁 F1 R1 — Australian GP · Race
+DESCRIPTION:Round 1 · Race\nCircuit: Melbourne
+LOCATION:Melbourne\, Melbourne\, Australia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11235@tiago
+DTSTART:20260313T033000Z
+DTEND:20260313T043000Z
+SUMMARY:🔧 F1 R2 — Chinese GP · Practice 1
+DESCRIPTION:Round 2 · Practice 1\nCircuit: Shanghai
+LOCATION:Shanghai\, Shanghai\, China
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11236@tiago
+DTSTART:20260313T073000Z
+DTEND:20260313T081400Z
+SUMMARY:⚡ F1 R2 — Chinese GP · Sprint Qualifying
+DESCRIPTION:Round 2 · Sprint Qualifying\nCircuit: Shanghai
+LOCATION:Shanghai\, Shanghai\, China
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11240@tiago
+DTSTART:20260314T030000Z
+DTEND:20260314T040000Z
+SUMMARY:⚡ F1 R2 — Chinese GP · Sprint
+DESCRIPTION:Round 2 · Sprint\nCircuit: Shanghai
+LOCATION:Shanghai\, Shanghai\, China
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11241@tiago
+DTSTART:20260314T070000Z
+DTEND:20260314T080000Z
+SUMMARY:📍 F1 R2 — Chinese GP · Qualifying
+DESCRIPTION:Round 2 · Qualifying\nCircuit: Shanghai
+LOCATION:Shanghai\, Shanghai\, China
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11245@tiago
+DTSTART:20260315T070000Z
+DTEND:20260315T090000Z
+SUMMARY:🏁 F1 R2 — Chinese GP · Race
+DESCRIPTION:Round 2 · Race\nCircuit: Shanghai
+LOCATION:Shanghai\, Shanghai\, China
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11246@tiago
+DTSTART:20260327T023000Z
+DTEND:20260327T033000Z
+SUMMARY:🔧 F1 R3 — Japanese GP · Practice 1
+DESCRIPTION:Round 3 · Practice 1\nCircuit: Suzuka
+LOCATION:Suzuka\, Suzuka\, Japan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11247@tiago
+DTSTART:20260327T060000Z
+DTEND:20260327T070000Z
+SUMMARY:🔧 F1 R3 — Japanese GP · Practice 2
+DESCRIPTION:Round 3 · Practice 2\nCircuit: Suzuka
+LOCATION:Suzuka\, Suzuka\, Japan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11248@tiago
+DTSTART:20260328T023000Z
+DTEND:20260328T033000Z
+SUMMARY:🔧 F1 R3 — Japanese GP · Practice 3
+DESCRIPTION:Round 3 · Practice 3\nCircuit: Suzuka
+LOCATION:Suzuka\, Suzuka\, Japan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11249@tiago
+DTSTART:20260328T060000Z
+DTEND:20260328T070000Z
+SUMMARY:📍 F1 R3 — Japanese GP · Qualifying
+DESCRIPTION:Round 3 · Qualifying\nCircuit: Suzuka
+LOCATION:Suzuka\, Suzuka\, Japan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11253@tiago
+DTSTART:20260329T050000Z
+DTEND:20260329T070000Z
+SUMMARY:🏁 F1 R3 — Japanese GP · Race
+DESCRIPTION:Round 3 · Race\nCircuit: Suzuka
+LOCATION:Suzuka\, Suzuka\, Japan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11270@tiago
+DTSTART:20260501T160000Z
+DTEND:20260501T173000Z
+SUMMARY:🔧 F1 R6 — Miami GP · Practice 1
+DESCRIPTION:Round 6 · Practice 1\nCircuit: Miami
+LOCATION:Miami\, Miami Gardens\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11271@tiago
+DTSTART:20260501T203000Z
+DTEND:20260501T211400Z
+SUMMARY:⚡ F1 R6 — Miami GP · Sprint Qualifying
+DESCRIPTION:Round 6 · Sprint Qualifying\nCircuit: Miami
+LOCATION:Miami\, Miami Gardens\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11275@tiago
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+SUMMARY:⚡ F1 R6 — Miami GP · Sprint
+DESCRIPTION:Round 6 · Sprint\nCircuit: Miami
+LOCATION:Miami\, Miami Gardens\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11276@tiago
+DTSTART:20260502T200000Z
+DTEND:20260502T210000Z
+SUMMARY:📍 F1 R6 — Miami GP · Qualifying
+DESCRIPTION:Round 6 · Qualifying\nCircuit: Miami
+LOCATION:Miami\, Miami Gardens\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11280@tiago
+DTSTART:20260503T170000Z
+DTEND:20260503T190000Z
+SUMMARY:🏁 F1 R6 — Miami GP · Race
+DESCRIPTION:Round 6 · Race\nCircuit: Miami
+LOCATION:Miami\, Miami Gardens\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11281@tiago
+DTSTART:20260522T163000Z
+DTEND:20260522T173000Z
+SUMMARY:🔧 F1 R7 — Canadian GP · Practice 1
+DESCRIPTION:Round 7 · Practice 1\nCircuit: Montreal
+LOCATION:Montreal\, Montréal\, Canada
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11282@tiago
+DTSTART:20260522T203000Z
+DTEND:20260522T211400Z
+SUMMARY:⚡ F1 R7 — Canadian GP · Sprint Qualifying
+DESCRIPTION:Round 7 · Sprint Qualifying\nCircuit: Montreal
+LOCATION:Montreal\, Montréal\, Canada
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11286@tiago
+DTSTART:20260523T160000Z
+DTEND:20260523T170000Z
+SUMMARY:⚡ F1 R7 — Canadian GP · Sprint
+DESCRIPTION:Round 7 · Sprint\nCircuit: Montreal
+LOCATION:Montreal\, Montréal\, Canada
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11287@tiago
+DTSTART:20260523T200000Z
+DTEND:20260523T210000Z
+SUMMARY:📍 F1 R7 — Canadian GP · Qualifying
+DESCRIPTION:Round 7 · Qualifying\nCircuit: Montreal
+LOCATION:Montreal\, Montréal\, Canada
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11291@tiago
+DTSTART:20260524T200000Z
+DTEND:20260524T220000Z
+SUMMARY:🏁 F1 R7 — Canadian GP · Race
+DESCRIPTION:Round 7 · Race\nCircuit: Montreal
+LOCATION:Montreal\, Montréal\, Canada
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11292@tiago
+DTSTART:20260605T113000Z
+DTEND:20260605T123000Z
+SUMMARY:🔧 F1 R8 — Monaco GP · Practice 1
+DESCRIPTION:Round 8 · Practice 1\nCircuit: Monte Carlo
+LOCATION:Monte Carlo\, Monte Carlo\, Monaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11293@tiago
+DTSTART:20260605T150000Z
+DTEND:20260605T160000Z
+SUMMARY:🔧 F1 R8 — Monaco GP · Practice 2
+DESCRIPTION:Round 8 · Practice 2\nCircuit: Monte Carlo
+LOCATION:Monte Carlo\, Monte Carlo\, Monaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11294@tiago
+DTSTART:20260606T103000Z
+DTEND:20260606T113000Z
+SUMMARY:🔧 F1 R8 — Monaco GP · Practice 3
+DESCRIPTION:Round 8 · Practice 3\nCircuit: Monte Carlo
+LOCATION:Monte Carlo\, Monte Carlo\, Monaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11295@tiago
+DTSTART:20260606T140000Z
+DTEND:20260606T150000Z
+SUMMARY:📍 F1 R8 — Monaco GP · Qualifying
+DESCRIPTION:Round 8 · Qualifying\nCircuit: Monte Carlo
+LOCATION:Monte Carlo\, Monte Carlo\, Monaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11299@tiago
+DTSTART:20260607T130000Z
+DTEND:20260607T150000Z
+SUMMARY:🏁 F1 R8 — Monaco GP · Race
+DESCRIPTION:Round 8 · Race\nCircuit: Monte Carlo
+LOCATION:Monte Carlo\, Monte Carlo\, Monaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11300@tiago
+DTSTART:20260612T113000Z
+DTEND:20260612T123000Z
+SUMMARY:🔧 F1 R9 — Barcelona GP · Practice 1
+DESCRIPTION:Round 9 · Practice 1\nCircuit: Catalunya
+LOCATION:Catalunya\, Barcelona\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11301@tiago
+DTSTART:20260612T150000Z
+DTEND:20260612T160000Z
+SUMMARY:🔧 F1 R9 — Barcelona GP · Practice 2
+DESCRIPTION:Round 9 · Practice 2\nCircuit: Catalunya
+LOCATION:Catalunya\, Barcelona\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11302@tiago
+DTSTART:20260613T103000Z
+DTEND:20260613T113000Z
+SUMMARY:🔧 F1 R9 — Barcelona GP · Practice 3
+DESCRIPTION:Round 9 · Practice 3\nCircuit: Catalunya
+LOCATION:Catalunya\, Barcelona\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11303@tiago
+DTSTART:20260613T140000Z
+DTEND:20260613T150000Z
+SUMMARY:📍 F1 R9 — Barcelona GP · Qualifying
+DESCRIPTION:Round 9 · Qualifying\nCircuit: Catalunya
+LOCATION:Catalunya\, Barcelona\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11307@tiago
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:🏁 F1 R9 — Barcelona GP · Race
+DESCRIPTION:Round 9 · Race\nCircuit: Catalunya
+LOCATION:Catalunya\, Barcelona\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11308@tiago
+DTSTART:20260626T113000Z
+DTEND:20260626T123000Z
+SUMMARY:🔧 F1 R10 — Austrian GP · Practice 1
+DESCRIPTION:Round 10 · Practice 1\nCircuit: Spielberg
+LOCATION:Spielberg\, Spielberg\, Austria
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11309@tiago
+DTSTART:20260626T150000Z
+DTEND:20260626T160000Z
+SUMMARY:🔧 F1 R10 — Austrian GP · Practice 2
+DESCRIPTION:Round 10 · Practice 2\nCircuit: Spielberg
+LOCATION:Spielberg\, Spielberg\, Austria
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11310@tiago
+DTSTART:20260627T103000Z
+DTEND:20260627T113000Z
+SUMMARY:🔧 F1 R10 — Austrian GP · Practice 3
+DESCRIPTION:Round 10 · Practice 3\nCircuit: Spielberg
+LOCATION:Spielberg\, Spielberg\, Austria
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11311@tiago
+DTSTART:20260627T140000Z
+DTEND:20260627T150000Z
+SUMMARY:📍 F1 R10 — Austrian GP · Qualifying
+DESCRIPTION:Round 10 · Qualifying\nCircuit: Spielberg
+LOCATION:Spielberg\, Spielberg\, Austria
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11315@tiago
+DTSTART:20260628T130000Z
+DTEND:20260628T150000Z
+SUMMARY:🏁 F1 R10 — Austrian GP · Race
+DESCRIPTION:Round 10 · Race\nCircuit: Spielberg
+LOCATION:Spielberg\, Spielberg\, Austria
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11316@tiago
+DTSTART:20260703T113000Z
+DTEND:20260703T123000Z
+SUMMARY:🔧 F1 R11 — British GP · Practice 1
+DESCRIPTION:Round 11 · Practice 1\nCircuit: Silverstone
+LOCATION:Silverstone\, Silverstone\, United Kingdom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11317@tiago
+DTSTART:20260703T153000Z
+DTEND:20260703T161400Z
+SUMMARY:⚡ F1 R11 — British GP · Sprint Qualifying
+DESCRIPTION:Round 11 · Sprint Qualifying\nCircuit: Silverstone
+LOCATION:Silverstone\, Silverstone\, United Kingdom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11321@tiago
+DTSTART:20260704T110000Z
+DTEND:20260704T120000Z
+SUMMARY:⚡ F1 R11 — British GP · Sprint
+DESCRIPTION:Round 11 · Sprint\nCircuit: Silverstone
+LOCATION:Silverstone\, Silverstone\, United Kingdom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11322@tiago
+DTSTART:20260704T150000Z
+DTEND:20260704T160000Z
+SUMMARY:📍 F1 R11 — British GP · Qualifying
+DESCRIPTION:Round 11 · Qualifying\nCircuit: Silverstone
+LOCATION:Silverstone\, Silverstone\, United Kingdom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11326@tiago
+DTSTART:20260705T140000Z
+DTEND:20260705T160000Z
+SUMMARY:🏁 F1 R11 — British GP · Race
+DESCRIPTION:Round 11 · Race\nCircuit: Silverstone
+LOCATION:Silverstone\, Silverstone\, United Kingdom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11327@tiago
+DTSTART:20260717T113000Z
+DTEND:20260717T123000Z
+SUMMARY:🔧 F1 R12 — Belgian GP · Practice 1
+DESCRIPTION:Round 12 · Practice 1\nCircuit: Spa-Francorchamps
+LOCATION:Spa-Francorchamps\, Spa-Francorchamps\, Belgium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11328@tiago
+DTSTART:20260717T150000Z
+DTEND:20260717T160000Z
+SUMMARY:🔧 F1 R12 — Belgian GP · Practice 2
+DESCRIPTION:Round 12 · Practice 2\nCircuit: Spa-Francorchamps
+LOCATION:Spa-Francorchamps\, Spa-Francorchamps\, Belgium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11329@tiago
+DTSTART:20260718T103000Z
+DTEND:20260718T113000Z
+SUMMARY:🔧 F1 R12 — Belgian GP · Practice 3
+DESCRIPTION:Round 12 · Practice 3\nCircuit: Spa-Francorchamps
+LOCATION:Spa-Francorchamps\, Spa-Francorchamps\, Belgium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11330@tiago
+DTSTART:20260718T140000Z
+DTEND:20260718T150000Z
+SUMMARY:📍 F1 R12 — Belgian GP · Qualifying
+DESCRIPTION:Round 12 · Qualifying\nCircuit: Spa-Francorchamps
+LOCATION:Spa-Francorchamps\, Spa-Francorchamps\, Belgium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11334@tiago
+DTSTART:20260719T130000Z
+DTEND:20260719T150000Z
+SUMMARY:🏁 F1 R12 — Belgian GP · Race
+DESCRIPTION:Round 12 · Race\nCircuit: Spa-Francorchamps
+LOCATION:Spa-Francorchamps\, Spa-Francorchamps\, Belgium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11335@tiago
+DTSTART:20260724T113000Z
+DTEND:20260724T123000Z
+SUMMARY:🔧 F1 R13 — Hungarian GP · Practice 1
+DESCRIPTION:Round 13 · Practice 1\nCircuit: Hungaroring
+LOCATION:Hungaroring\, Budapest\, Hungary
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11336@tiago
+DTSTART:20260724T150000Z
+DTEND:20260724T160000Z
+SUMMARY:🔧 F1 R13 — Hungarian GP · Practice 2
+DESCRIPTION:Round 13 · Practice 2\nCircuit: Hungaroring
+LOCATION:Hungaroring\, Budapest\, Hungary
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11337@tiago
+DTSTART:20260725T103000Z
+DTEND:20260725T113000Z
+SUMMARY:🔧 F1 R13 — Hungarian GP · Practice 3
+DESCRIPTION:Round 13 · Practice 3\nCircuit: Hungaroring
+LOCATION:Hungaroring\, Budapest\, Hungary
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11338@tiago
+DTSTART:20260725T140000Z
+DTEND:20260725T150000Z
+SUMMARY:📍 F1 R13 — Hungarian GP · Qualifying
+DESCRIPTION:Round 13 · Qualifying\nCircuit: Hungaroring
+LOCATION:Hungaroring\, Budapest\, Hungary
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11342@tiago
+DTSTART:20260726T130000Z
+DTEND:20260726T150000Z
+SUMMARY:🏁 F1 R13 — Hungarian GP · Race
+DESCRIPTION:Round 13 · Race\nCircuit: Hungaroring
+LOCATION:Hungaroring\, Budapest\, Hungary
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11343@tiago
+DTSTART:20260821T103000Z
+DTEND:20260821T113000Z
+SUMMARY:🔧 F1 R14 — Dutch GP · Practice 1
+DESCRIPTION:Round 14 · Practice 1\nCircuit: Zandvoort
+LOCATION:Zandvoort\, Zandvoort\, Netherlands
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11344@tiago
+DTSTART:20260821T143000Z
+DTEND:20260821T151400Z
+SUMMARY:⚡ F1 R14 — Dutch GP · Sprint Qualifying
+DESCRIPTION:Round 14 · Sprint Qualifying\nCircuit: Zandvoort
+LOCATION:Zandvoort\, Zandvoort\, Netherlands
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11348@tiago
+DTSTART:20260822T100000Z
+DTEND:20260822T110000Z
+SUMMARY:⚡ F1 R14 — Dutch GP · Sprint
+DESCRIPTION:Round 14 · Sprint\nCircuit: Zandvoort
+LOCATION:Zandvoort\, Zandvoort\, Netherlands
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11349@tiago
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+SUMMARY:📍 F1 R14 — Dutch GP · Qualifying
+DESCRIPTION:Round 14 · Qualifying\nCircuit: Zandvoort
+LOCATION:Zandvoort\, Zandvoort\, Netherlands
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11353@tiago
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:🏁 F1 R14 — Dutch GP · Race
+DESCRIPTION:Round 14 · Race\nCircuit: Zandvoort
+LOCATION:Zandvoort\, Zandvoort\, Netherlands
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11354@tiago
+DTSTART:20260904T103000Z
+DTEND:20260904T113000Z
+SUMMARY:🔧 F1 R15 — Italian GP · Practice 1
+DESCRIPTION:Round 15 · Practice 1\nCircuit: Monza
+LOCATION:Monza\, Monza\, Italy
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11355@tiago
+DTSTART:20260904T140000Z
+DTEND:20260904T150000Z
+SUMMARY:🔧 F1 R15 — Italian GP · Practice 2
+DESCRIPTION:Round 15 · Practice 2\nCircuit: Monza
+LOCATION:Monza\, Monza\, Italy
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11356@tiago
+DTSTART:20260905T103000Z
+DTEND:20260905T113000Z
+SUMMARY:🔧 F1 R15 — Italian GP · Practice 3
+DESCRIPTION:Round 15 · Practice 3\nCircuit: Monza
+LOCATION:Monza\, Monza\, Italy
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11357@tiago
+DTSTART:20260905T140000Z
+DTEND:20260905T150000Z
+SUMMARY:📍 F1 R15 — Italian GP · Qualifying
+DESCRIPTION:Round 15 · Qualifying\nCircuit: Monza
+LOCATION:Monza\, Monza\, Italy
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11361@tiago
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:🏁 F1 R15 — Italian GP · Race
+DESCRIPTION:Round 15 · Race\nCircuit: Monza
+LOCATION:Monza\, Monza\, Italy
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11362@tiago
+DTSTART:20260911T113000Z
+DTEND:20260911T123000Z
+SUMMARY:🔧 F1 R16 — Spanish GP · Practice 1
+DESCRIPTION:Round 16 · Practice 1\nCircuit: Madring
+LOCATION:Madring\, Madrid\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11363@tiago
+DTSTART:20260911T150000Z
+DTEND:20260911T160000Z
+SUMMARY:🔧 F1 R16 — Spanish GP · Practice 2
+DESCRIPTION:Round 16 · Practice 2\nCircuit: Madring
+LOCATION:Madring\, Madrid\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11364@tiago
+DTSTART:20260912T103000Z
+DTEND:20260912T113000Z
+SUMMARY:🔧 F1 R16 — Spanish GP · Practice 3
+DESCRIPTION:Round 16 · Practice 3\nCircuit: Madring
+LOCATION:Madring\, Madrid\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11365@tiago
+DTSTART:20260912T140000Z
+DTEND:20260912T150000Z
+SUMMARY:📍 F1 R16 — Spanish GP · Qualifying
+DESCRIPTION:Round 16 · Qualifying\nCircuit: Madring
+LOCATION:Madring\, Madrid\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11369@tiago
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:🏁 F1 R16 — Spanish GP · Race
+DESCRIPTION:Round 16 · Race\nCircuit: Madring
+LOCATION:Madring\, Madrid\, Spain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11370@tiago
+DTSTART:20260924T083000Z
+DTEND:20260924T093000Z
+SUMMARY:🔧 F1 R17 — Azerbaijan GP · Practice 1
+DESCRIPTION:Round 17 · Practice 1\nCircuit: Baku
+LOCATION:Baku\, Baku\, Azerbaijan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11371@tiago
+DTSTART:20260924T120000Z
+DTEND:20260924T130000Z
+SUMMARY:🔧 F1 R17 — Azerbaijan GP · Practice 2
+DESCRIPTION:Round 17 · Practice 2\nCircuit: Baku
+LOCATION:Baku\, Baku\, Azerbaijan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11372@tiago
+DTSTART:20260925T083000Z
+DTEND:20260925T093000Z
+SUMMARY:🔧 F1 R17 — Azerbaijan GP · Practice 3
+DESCRIPTION:Round 17 · Practice 3\nCircuit: Baku
+LOCATION:Baku\, Baku\, Azerbaijan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11373@tiago
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+SUMMARY:📍 F1 R17 — Azerbaijan GP · Qualifying
+DESCRIPTION:Round 17 · Qualifying\nCircuit: Baku
+LOCATION:Baku\, Baku\, Azerbaijan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11377@tiago
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:🏁 F1 R17 — Azerbaijan GP · Race
+DESCRIPTION:Round 17 · Race\nCircuit: Baku
+LOCATION:Baku\, Baku\, Azerbaijan
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11378@tiago
+DTSTART:20261009T083000Z
+DTEND:20261009T093000Z
+SUMMARY:🔧 F1 R18 — Singapore GP · Practice 1
+DESCRIPTION:Round 18 · Practice 1\nCircuit: Singapore
+LOCATION:Singapore\, Marina Bay\, Singapore
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11379@tiago
+DTSTART:20261009T123000Z
+DTEND:20261009T131400Z
+SUMMARY:⚡ F1 R18 — Singapore GP · Sprint Qualifying
+DESCRIPTION:Round 18 · Sprint Qualifying\nCircuit: Singapore
+LOCATION:Singapore\, Marina Bay\, Singapore
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11383@tiago
+DTSTART:20261010T090000Z
+DTEND:20261010T100000Z
+SUMMARY:⚡ F1 R18 — Singapore GP · Sprint
+DESCRIPTION:Round 18 · Sprint\nCircuit: Singapore
+LOCATION:Singapore\, Marina Bay\, Singapore
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11384@tiago
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+SUMMARY:📍 F1 R18 — Singapore GP · Qualifying
+DESCRIPTION:Round 18 · Qualifying\nCircuit: Singapore
+LOCATION:Singapore\, Marina Bay\, Singapore
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11388@tiago
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:🏁 F1 R18 — Singapore GP · Race
+DESCRIPTION:Round 18 · Race\nCircuit: Singapore
+LOCATION:Singapore\, Marina Bay\, Singapore
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11389@tiago
+DTSTART:20261023T173000Z
+DTEND:20261023T183000Z
+SUMMARY:🔧 F1 R19 — United States GP · Practice 1
+DESCRIPTION:Round 19 · Practice 1\nCircuit: Austin
+LOCATION:Austin\, Austin\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11390@tiago
+DTSTART:20261023T210000Z
+DTEND:20261023T220000Z
+SUMMARY:🔧 F1 R19 — United States GP · Practice 2
+DESCRIPTION:Round 19 · Practice 2\nCircuit: Austin
+LOCATION:Austin\, Austin\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11391@tiago
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+SUMMARY:🔧 F1 R19 — United States GP · Practice 3
+DESCRIPTION:Round 19 · Practice 3\nCircuit: Austin
+LOCATION:Austin\, Austin\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11392@tiago
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+SUMMARY:📍 F1 R19 — United States GP · Qualifying
+DESCRIPTION:Round 19 · Qualifying\nCircuit: Austin
+LOCATION:Austin\, Austin\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11396@tiago
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:🏁 F1 R19 — United States GP · Race
+DESCRIPTION:Round 19 · Race\nCircuit: Austin
+LOCATION:Austin\, Austin\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11397@tiago
+DTSTART:20261030T183000Z
+DTEND:20261030T193000Z
+SUMMARY:🔧 F1 R20 — Mexico City GP · Practice 1
+DESCRIPTION:Round 20 · Practice 1\nCircuit: Mexico City
+LOCATION:Mexico City\, Mexico City\, Mexico
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11398@tiago
+DTSTART:20261030T220000Z
+DTEND:20261030T230000Z
+SUMMARY:🔧 F1 R20 — Mexico City GP · Practice 2
+DESCRIPTION:Round 20 · Practice 2\nCircuit: Mexico City
+LOCATION:Mexico City\, Mexico City\, Mexico
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11399@tiago
+DTSTART:20261031T173000Z
+DTEND:20261031T183000Z
+SUMMARY:🔧 F1 R20 — Mexico City GP · Practice 3
+DESCRIPTION:Round 20 · Practice 3\nCircuit: Mexico City
+LOCATION:Mexico City\, Mexico City\, Mexico
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11400@tiago
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+SUMMARY:📍 F1 R20 — Mexico City GP · Qualifying
+DESCRIPTION:Round 20 · Qualifying\nCircuit: Mexico City
+LOCATION:Mexico City\, Mexico City\, Mexico
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11404@tiago
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:🏁 F1 R20 — Mexico City GP · Race
+DESCRIPTION:Round 20 · Race\nCircuit: Mexico City
+LOCATION:Mexico City\, Mexico City\, Mexico
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11405@tiago
+DTSTART:20261106T153000Z
+DTEND:20261106T163000Z
+SUMMARY:🔧 F1 R21 — São Paulo GP · Practice 1
+DESCRIPTION:Round 21 · Practice 1\nCircuit: Interlagos
+LOCATION:Interlagos\, São Paulo\, Brazil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11406@tiago
+DTSTART:20261106T190000Z
+DTEND:20261106T200000Z
+SUMMARY:🔧 F1 R21 — São Paulo GP · Practice 2
+DESCRIPTION:Round 21 · Practice 2\nCircuit: Interlagos
+LOCATION:Interlagos\, São Paulo\, Brazil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11407@tiago
+DTSTART:20261107T143000Z
+DTEND:20261107T153000Z
+SUMMARY:🔧 F1 R21 — São Paulo GP · Practice 3
+DESCRIPTION:Round 21 · Practice 3\nCircuit: Interlagos
+LOCATION:Interlagos\, São Paulo\, Brazil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11408@tiago
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+SUMMARY:📍 F1 R21 — São Paulo GP · Qualifying
+DESCRIPTION:Round 21 · Qualifying\nCircuit: Interlagos
+LOCATION:Interlagos\, São Paulo\, Brazil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11412@tiago
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:🏁 F1 R21 — São Paulo GP · Race
+DESCRIPTION:Round 21 · Race\nCircuit: Interlagos
+LOCATION:Interlagos\, São Paulo\, Brazil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11413@tiago
+DTSTART:20261120T003000Z
+DTEND:20261120T013000Z
+SUMMARY:🔧 F1 R22 — Las Vegas GP · Practice 1
+DESCRIPTION:Round 22 · Practice 1\nCircuit: Las Vegas
+LOCATION:Las Vegas\, Las Vegas\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11414@tiago
+DTSTART:20261120T040000Z
+DTEND:20261120T050000Z
+SUMMARY:🔧 F1 R22 — Las Vegas GP · Practice 2
+DESCRIPTION:Round 22 · Practice 2\nCircuit: Las Vegas
+LOCATION:Las Vegas\, Las Vegas\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11415@tiago
+DTSTART:20261121T003000Z
+DTEND:20261121T013000Z
+SUMMARY:🔧 F1 R22 — Las Vegas GP · Practice 3
+DESCRIPTION:Round 22 · Practice 3\nCircuit: Las Vegas
+LOCATION:Las Vegas\, Las Vegas\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11416@tiago
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+SUMMARY:📍 F1 R22 — Las Vegas GP · Qualifying
+DESCRIPTION:Round 22 · Qualifying\nCircuit: Las Vegas
+LOCATION:Las Vegas\, Las Vegas\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11420@tiago
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:🏁 F1 R22 — Las Vegas GP · Race
+DESCRIPTION:Round 22 · Race\nCircuit: Las Vegas
+LOCATION:Las Vegas\, Las Vegas\, United States
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11421@tiago
+DTSTART:20261127T133000Z
+DTEND:20261127T143000Z
+SUMMARY:🔧 F1 R23 — Qatar GP · Practice 1
+DESCRIPTION:Round 23 · Practice 1\nCircuit: Lusail
+LOCATION:Lusail\, Lusail\, Qatar
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11422@tiago
+DTSTART:20261127T170000Z
+DTEND:20261127T180000Z
+SUMMARY:🔧 F1 R23 — Qatar GP · Practice 2
+DESCRIPTION:Round 23 · Practice 2\nCircuit: Lusail
+LOCATION:Lusail\, Lusail\, Qatar
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11423@tiago
+DTSTART:20261128T143000Z
+DTEND:20261128T153000Z
+SUMMARY:🔧 F1 R23 — Qatar GP · Practice 3
+DESCRIPTION:Round 23 · Practice 3\nCircuit: Lusail
+LOCATION:Lusail\, Lusail\, Qatar
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11424@tiago
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+SUMMARY:📍 F1 R23 — Qatar GP · Qualifying
+DESCRIPTION:Round 23 · Qualifying\nCircuit: Lusail
+LOCATION:Lusail\, Lusail\, Qatar
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11428@tiago
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:🏁 F1 R23 — Qatar GP · Race
+DESCRIPTION:Round 23 · Race\nCircuit: Lusail
+LOCATION:Lusail\, Lusail\, Qatar
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11429@tiago
+DTSTART:20261204T093000Z
+DTEND:20261204T103000Z
+SUMMARY:🔧 F1 R24 — Abu Dhabi GP · Practice 1
+DESCRIPTION:Round 24 · Practice 1\nCircuit: Yas Marina Circuit
+LOCATION:Yas Marina Circuit\, Yas Marina\, United Arab Emirates
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11430@tiago
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+SUMMARY:🔧 F1 R24 — Abu Dhabi GP · Practice 2
+DESCRIPTION:Round 24 · Practice 2\nCircuit: Yas Marina Circuit
+LOCATION:Yas Marina Circuit\, Yas Marina\, United Arab Emirates
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11431@tiago
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+SUMMARY:🔧 F1 R24 — Abu Dhabi GP · Practice 3
+DESCRIPTION:Round 24 · Practice 3\nCircuit: Yas Marina Circuit
+LOCATION:Yas Marina Circuit\, Yas Marina\, United Arab Emirates
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11432@tiago
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+SUMMARY:📍 F1 R24 — Abu Dhabi GP · Qualifying
+DESCRIPTION:Round 24 · Qualifying\nCircuit: Yas Marina Circuit
+LOCATION:Yas Marina Circuit\, Yas Marina\, United Arab Emirates
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f1-11436@tiago
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:🏁 F1 R24 — Abu Dhabi GP · Race
+DESCRIPTION:Round 24 · Race\nCircuit: Yas Marina Circuit
+LOCATION:Yas Marina Circuit\, Yas Marina\, United Arab Emirates
+END:VEVENT
+
+END:VCALENDAR
