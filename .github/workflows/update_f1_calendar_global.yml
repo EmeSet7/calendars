@@ -24,7 +24,7 @@ jobs:
         run: pip install requests
 
       - name: Run update script
-        run: python f1_calendar.py
+        run: python update_f1_calendar_global.py
 
       - name: Commit and push if changed
         run: |
