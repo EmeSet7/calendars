@@ -2,7 +2,7 @@ name: Update F1 Page
 
 on:
   schedule:
-    #- cron: '0 9 * * 1'  # Every Monday at 09:00 UTC (1hr after calendar update)
+    - cron: '0 9 * * 1'  # Every Monday at 09:00 UTC (1hr after calendar update)
   workflow_dispatch:
 
 jobs:
