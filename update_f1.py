@@ -2,7 +2,7 @@ import requests
 from datetime import datetime, timezone
 
 OPENF1_BASE = "https://api.openf1.org/v1"
-ICS_FILE = "F1_calendar.ics"
+ICS_FILE = "F1.ics"
 
 
 def get_season_year():

@@ -3,15 +3,20 @@ name: Update F1 Calendar
 on:
   schedule:
     - cron: '0 8 * * 1'  # Every Monday at 08:00 UTC
-  workflow_dispatch:       # Allow manual trigger
+  workflow_dispatch:       # Lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write           # Needed so the workflow can push the updated .ics back to the repo
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -19,12 +24,12 @@ jobs:
         run: pip install requests
 
       - name: Run update script
-        run: python update_f1_calendar.py
+        run: python update_f1.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add f12026.ics
-          git diff --staged --quiet || git commit -m "🏁 Update F1 results [automated]"
+          git add F1.ics
+          git diff --staged --quiet || git commit -m "🏁 Update F1 calendar [automated]"
           git push
