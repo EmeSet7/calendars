@@ -731,8 +731,8 @@ BEGIN:VEVENT
 UID:mundial2026-j73@tiago
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-SUMMARY:⚽ Oitavos J73 – África do Sul x Canadá
-DESCRIPTION:Oitavos de Final - Jogo 73 | Mundial 2026
+SUMMARY:⚽ 32avos J73 – África do Sul x Canadá (0-1)
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 73 | Mundial 2026
 LOCATION:SoFi Stadium\, Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
@@ -741,8 +741,8 @@ BEGIN:VEVENT
 UID:mundial2026-j74@tiago
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-SUMMARY:⚽ Oitavos J74 – Brasil x Japão
-DESCRIPTION:Oitavos de Final - Jogo 74 | Mundial 2026\nOnde ver: Sport TV 1 / LiveModeTV (YouTube - gratuito)
+SUMMARY:⚽ 32avos J74 – Brasil x Japão (2-1)
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 74 | Mundial 2026\nOnde ver: Sport TV 1 / LiveModeTV (YouTube - gratuito)
 LOCATION:NRG Stadium\, Houston
 STATUS:CONFIRMED
 END:VEVENT
@@ -751,8 +751,8 @@ BEGIN:VEVENT
 UID:mundial2026-j75@tiago
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-SUMMARY:⚽ Oitavos J75 – Alemanha x Paraguai
-DESCRIPTION:Oitavos de Final - Jogo 75 | Mundial 2026
+SUMMARY:⚽ 32avos J75 – Alemanha x Paraguai (1-1, 3-4 gp) *Paraguai vence*
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 75 | Mundial 2026
 LOCATION:Gillette Stadium\, Boston
 STATUS:CONFIRMED
 END:VEVENT
@@ -761,8 +761,8 @@ BEGIN:VEVENT
 UID:mundial2026-j76@tiago
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-SUMMARY:⚽ Oitavos J76 – Holanda x Marrocos
-DESCRIPTION:Oitavos de Final - Jogo 76 | Mundial 2026
+SUMMARY:⚽ 32avos J76 – Holanda x Marrocos (1-1, 2-3 gp) *Marrocos vence*
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 76 | Mundial 2026
 LOCATION:Estadio BBVA\, Monterrey
 STATUS:CONFIRMED
 END:VEVENT
@@ -771,8 +771,8 @@ BEGIN:VEVENT
 UID:mundial2026-j77@tiago
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-SUMMARY:⚽ Oitavos J77 – Costa do Marfim x Noruega
-DESCRIPTION:Oitavos de Final - Jogo 77 | Mundial 2026
+SUMMARY:⚽ 32avos J77 – Costa do Marfim x Noruega (1-2)
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 77 | Mundial 2026
 LOCATION:AT&T Stadium\, Arlington
 STATUS:CONFIRMED
 END:VEVENT
@@ -781,8 +781,8 @@ BEGIN:VEVENT
 UID:mundial2026-j78@tiago
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-SUMMARY:⚽ Oitavos J78 – França x Suécia
-DESCRIPTION:Oitavos de Final - Jogo 78 | Mundial 2026
+SUMMARY:⚽ 32avos J78 – França x Suécia (3-0)
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 78 | Mundial 2026
 LOCATION:MetLife Stadium\, New Jersey
 STATUS:CONFIRMED
 END:VEVENT
@@ -791,8 +791,8 @@ BEGIN:VEVENT
 UID:mundial2026-j79@tiago
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
-SUMMARY:⚽ Oitavos J79 – México x Equador
-DESCRIPTION:Oitavos de Final - Jogo 79 | Mundial 2026
+SUMMARY:⚽ 32avos J79 – México x Equador (2-0)
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 79 | Mundial 2026
 LOCATION:Estadio Azteca\, Cidade do México
 STATUS:CONFIRMED
 END:VEVENT
@@ -801,8 +801,8 @@ BEGIN:VEVENT
 UID:mundial2026-j80@tiago
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-SUMMARY:⚽ Oitavos J80 – Inglaterra x Congo DR
-DESCRIPTION:Oitavos de Final - Jogo 80 | Mundial 2026
+SUMMARY:⚽ 32avos J80 – Inglaterra x Congo DR
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 80 | Mundial 2026
 LOCATION:Mercedes-Benz Stadium\, Atlanta
 STATUS:CONFIRMED
 END:VEVENT
@@ -811,8 +811,8 @@ BEGIN:VEVENT
 UID:mundial2026-j81@tiago
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-SUMMARY:⚽ Oitavos J81 – Bélgica x Senegal
-DESCRIPTION:Oitavos de Final - Jogo 81 | Mundial 2026
+SUMMARY:⚽ 32avos J81 – Bélgica x Senegal
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 81 | Mundial 2026
 LOCATION:Lumen Field\, Seattle
 STATUS:CONFIRMED
 END:VEVENT
@@ -821,8 +821,8 @@ BEGIN:VEVENT
 UID:mundial2026-j82@tiago
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-SUMMARY:⚽ Oitavos J82 – 🇺🇸 Estados Unidos x Bósnia
-DESCRIPTION:Oitavos de Final - Jogo 82 | Mundial 2026
+SUMMARY:⚽ 32avos J82 – 🇺🇸 Estados Unidos x Bósnia
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 82 | Mundial 2026
 LOCATION:Levi's Stadium\, Santa Clara
 STATUS:CONFIRMED
 END:VEVENT
@@ -831,8 +831,8 @@ BEGIN:VEVENT
 UID:mundial2026-j83@tiago
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-SUMMARY:⚽ Oitavos J83 – Espanha x Áustria
-DESCRIPTION:Oitavos de Final - Jogo 83 | Mundial 2026
+SUMMARY:⚽ 32avos J83 – Espanha x Áustria
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 83 | Mundial 2026
 LOCATION:SoFi Stadium\, Los Angeles
 STATUS:CONFIRMED
 END:VEVENT
@@ -841,8 +841,8 @@ BEGIN:VEVENT
 UID:mundial2026-j84@tiago
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-SUMMARY:⚽ Oitavos J84 – 🇵🇹 Portugal x Croácia
-DESCRIPTION:Oitavos de Final - Jogo 84 | Mundial 2026\nOnde ver: Sport TV 1 / LiveModeTV (YouTube - gratuito)
+SUMMARY:⚽ 32avos J84 – 🇵🇹 Portugal x Croácia
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 84 | Mundial 2026\nOnde ver: Sport TV 1 / LiveModeTV (YouTube - gratuito)
 LOCATION:BMO Field\, Toronto
 STATUS:CONFIRMED
 END:VEVENT
@@ -851,8 +851,8 @@ BEGIN:VEVENT
 UID:mundial2026-j85@tiago
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-SUMMARY:⚽ Oitavos J85 – Suíça x Argélia
-DESCRIPTION:Oitavos de Final - Jogo 85 | Mundial 2026
+SUMMARY:⚽ 32avos J85 – Suíça x Argélia
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 85 | Mundial 2026
 LOCATION:BC Place\, Vancouver
 STATUS:CONFIRMED
 END:VEVENT
@@ -861,8 +861,8 @@ BEGIN:VEVENT
 UID:mundial2026-j86@tiago
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-SUMMARY:⚽ Oitavos J86 – Austrália x Egito
-DESCRIPTION:Oitavos de Final - Jogo 86 | Mundial 2026
+SUMMARY:⚽ 32avos J86 – Austrália x Egito
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 86 | Mundial 2026
 LOCATION:AT&T Stadium\, Arlington
 STATUS:CONFIRMED
 END:VEVENT
@@ -871,8 +871,8 @@ BEGIN:VEVENT
 UID:mundial2026-j87@tiago
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-SUMMARY:⚽ Oitavos J87 – Argentina x Cabo Verde
-DESCRIPTION:Oitavos de Final - Jogo 87 | Mundial 2026
+SUMMARY:⚽ 32avos J87 – Argentina x Cabo Verde
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 87 | Mundial 2026
 LOCATION:Hard Rock Stadium\, Miami
 STATUS:CONFIRMED
 END:VEVENT
@@ -881,9 +881,89 @@ BEGIN:VEVENT
 UID:mundial2026-j88@tiago
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-SUMMARY:⚽ Oitavos J88 – Colômbia x Gana
-DESCRIPTION:Oitavos de Final - Jogo 88 | Mundial 2026
+SUMMARY:⚽ 32avos J88 – Colômbia x Gana
+DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 88 | Mundial 2026
 LOCATION:Arrowhead Stadium\, Kansas City
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mundial2026-90@tiago
+DTSTART:20260704T170000Z
+DTEND:20260704T190000Z
+SUMMARY:⚽ Oitavos J90 – Canadá x Marrocos
+DESCRIPTION:Oitavos de Final - Jogo 90 | Mundial 2026
+LOCATION:NRG Stadium\, Houston
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mundial2026-89@tiago
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:⚽ Oitavos J89 – Paraguai x França
+DESCRIPTION:Oitavos de Final - Jogo 89 | Mundial 2026
+LOCATION:Lincoln Financial Field\, Filadélfia
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mundial2026-91@tiago
+DTSTART:20260705T200000Z
+DTEND:20260705T220000Z
+SUMMARY:⚽ Oitavos J91 – Brasil x Noruega
+DESCRIPTION:Oitavos de Final - Jogo 91 | Mundial 2026
+LOCATION:MetLife Stadium\, New Jersey
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mundial2026-92@tiago
+DTSTART:20260706T000000Z
+DTEND:20260706T020000Z
+SUMMARY:⚽ Oitavos J92 – México x Vencedor J80 (Inglaterra/Congo DR)
+DESCRIPTION:Oitavos de Final - Jogo 92 | Mundial 2026
+LOCATION:Estadio Azteca\, Cidade do México
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mundial2026-93@tiago
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+SUMMARY:⚽ Oitavos J93 – Vencedor J83 x Vencedor J84 (Espanha/Áustria x 🇵🇹 Portugal/Croácia)
+DESCRIPTION:Oitavos de Final - Jogo 93 | Mundial 2026
+LOCATION:AT&T Stadium\, Dallas
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mundial2026-94@tiago
+DTSTART:20260707T000000Z
+DTEND:20260707T020000Z
+SUMMARY:⚽ Oitavos J94 – Vencedor J81 x Vencedor J82 (Bélgica/Senegal x 🇺🇸 Estados Unidos/Bósnia)
+DESCRIPTION:Oitavos de Final - Jogo 94 | Mundial 2026
+LOCATION:Lumen Field\, Seattle
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mundial2026-95@tiago
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:⚽ Oitavos J95 – Vencedor J86 x Vencedor J88 (Austrália/Egito x Colômbia/Gana)
+DESCRIPTION:Oitavos de Final - Jogo 95 | Mundial 2026
+LOCATION:Mercedes-Benz Stadium\, Atlanta
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mundial2026-96@tiago
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+SUMMARY:⚽ Oitavos J96 – Vencedor J85 x Vencedor J87 (Suíça/Argélia x Argentina/Cabo Verde)
+DESCRIPTION:Oitavos de Final - Jogo 96 | Mundial 2026
+LOCATION:BC Place\, Vancouver
 STATUS:CONFIRMED
 END:VEVENT
 
