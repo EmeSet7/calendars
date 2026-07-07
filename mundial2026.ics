@@ -801,7 +801,7 @@ BEGIN:VEVENT
 UID:mundial2026-j80@tiago
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra x 🇨🇩 Congo DR
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra x 🇨🇩 Congo DR (2-1)
 DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 80 | Mundial 2026
 LOCATION:Mercedes-Benz Stadium\, Atlanta
 STATUS:CONFIRMED
@@ -811,7 +811,7 @@ BEGIN:VEVENT
 UID:mundial2026-j81@tiago
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-SUMMARY:🇧🇪 Bélgica x 🇸🇳 Senegal
+SUMMARY:🇧🇪 Bélgica x 🇸🇳 Senegal (3-2)
 DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 81 | Mundial 2026
 LOCATION:Lumen Field\, Seattle
 STATUS:CONFIRMED
@@ -821,7 +821,7 @@ BEGIN:VEVENT
 UID:mundial2026-j82@tiago
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-SUMMARY:🇺🇸 Estados Unidos x 🇧🇦 Bósnia
+SUMMARY:🇺🇸 Estados Unidos x 🇧🇦 Bósnia (2-0)
 DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 82 | Mundial 2026
 LOCATION:Levi's Stadium\, Santa Clara
 STATUS:CONFIRMED
@@ -831,7 +831,7 @@ BEGIN:VEVENT
 UID:mundial2026-j83@tiago
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-SUMMARY:🇪🇸 Espanha x 🇦🇹 Áustria
+SUMMARY:🇪🇸 Espanha x 🇦🇹 Áustria (3-0)
 DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 83 | Mundial 2026
 LOCATION:SoFi Stadium\, Los Angeles
 STATUS:CONFIRMED
@@ -841,7 +841,7 @@ BEGIN:VEVENT
 UID:mundial2026-j84@tiago
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-SUMMARY:🇵🇹 Portugal x 🇭🇷 Croácia
+SUMMARY:🇵🇹 Portugal x 🇭🇷 Croácia (2-1)
 DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 84 | Mundial 2026\nOnde ver: Sport TV 1 / LiveModeTV (YouTube - gratuito)
 LOCATION:BMO Field\, Toronto
 STATUS:CONFIRMED
@@ -851,7 +851,7 @@ BEGIN:VEVENT
 UID:mundial2026-j85@tiago
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-SUMMARY:🇨🇭 Suíça x 🇩🇿 Argélia
+SUMMARY:🇨🇭 Suíça x 🇩🇿 Argélia (2-0)
 DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 85 | Mundial 2026
 LOCATION:BC Place\, Vancouver
 STATUS:CONFIRMED
@@ -861,7 +861,7 @@ BEGIN:VEVENT
 UID:mundial2026-j86@tiago
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-SUMMARY:🇦🇺 Austrália x 🇪🇬 Egito
+SUMMARY:🇦🇺 Austrália x 🇪🇬 Egito (1-1, 2-4 gp)
 DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 86 | Mundial 2026
 LOCATION:AT&T Stadium\, Arlington
 STATUS:CONFIRMED
@@ -871,7 +871,7 @@ BEGIN:VEVENT
 UID:mundial2026-j87@tiago
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-SUMMARY:🇦🇷 Argentina x 🇨🇻 Cabo Verde
+SUMMARY:🇦🇷 Argentina x 🇨🇻 Cabo Verde (3-2)
 DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 87 | Mundial 2026
 LOCATION:Hard Rock Stadium\, Miami
 STATUS:CONFIRMED
@@ -881,7 +881,7 @@ BEGIN:VEVENT
 UID:mundial2026-j88@tiago
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-SUMMARY:🇨🇴 Colômbia x 🇬🇭 Gana
+SUMMARY:🇨🇴 Colômbia x 🇬🇭 Gana (1-0)
 DESCRIPTION:32-avos-de-Final (Ronda de 32) - Jogo 88 | Mundial 2026
 LOCATION:Arrowhead Stadium\, Kansas City
 STATUS:CONFIRMED
@@ -891,7 +891,7 @@ BEGIN:VEVENT
 UID:mundial2026-90@tiago
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-SUMMARY:🇨🇦 Canadá x 🇲🇦 Marrocos
+SUMMARY:🇨🇦 Canadá x 🇲🇦 Marrocos (0-3)
 DESCRIPTION:Oitavos de Final - Jogo 90 | Mundial 2026
 LOCATION:NRG Stadium\, Houston
 STATUS:CONFIRMED
@@ -901,7 +901,7 @@ BEGIN:VEVENT
 UID:mundial2026-89@tiago
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
-SUMMARY:🇵🇾 Paraguai x 🇫🇷 França
+SUMMARY:🇵🇾 Paraguai x 🇫🇷 França (0-1)
 DESCRIPTION:Oitavos de Final - Jogo 89 | Mundial 2026
 LOCATION:Lincoln Financial Field\, Filadélfia
 STATUS:CONFIRMED
@@ -911,7 +911,7 @@ BEGIN:VEVENT
 UID:mundial2026-91@tiago
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
-SUMMARY:🇧🇷 Brasil x 🇳🇴 Noruega
+SUMMARY:🇧🇷 Brasil x 🇳🇴 Noruega (1-2)
 DESCRIPTION:Oitavos de Final - Jogo 91 | Mundial 2026
 LOCATION:MetLife Stadium\, New Jersey
 STATUS:CONFIRMED
@@ -921,7 +921,7 @@ BEGIN:VEVENT
 UID:mundial2026-92@tiago
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
-SUMMARY:🇲🇽 México x Vencedor J80
+SUMMARY:🇲🇽 México x 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra (2-3)
 DESCRIPTION:Oitavos de Final - Jogo 92 | Mundial 2026
 LOCATION:Estadio Azteca\, Cidade do México
 STATUS:CONFIRMED
@@ -931,7 +931,7 @@ BEGIN:VEVENT
 UID:mundial2026-93@tiago
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
-SUMMARY:Vencedor J83 x Vencedor J84
+SUMMARY:🇵🇹 Portugal x 🇪🇸 Espanha (0-1)
 DESCRIPTION:Oitavos de Final - Jogo 93 | Mundial 2026
 LOCATION:AT&T Stadium\, Dallas
 STATUS:CONFIRMED
@@ -941,7 +941,7 @@ BEGIN:VEVENT
 UID:mundial2026-94@tiago
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-SUMMARY:Vencedor J81 x Vencedor J82
+SUMMARY:🇧🇪 Bélgica x 🇺🇸 Estados Unidos (4-1)
 DESCRIPTION:Oitavos de Final - Jogo 94 | Mundial 2026
 LOCATION:Lumen Field\, Seattle
 STATUS:CONFIRMED
@@ -951,7 +951,7 @@ BEGIN:VEVENT
 UID:mundial2026-95@tiago
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-SUMMARY:Vencedor J86 x Vencedor J88
+SUMMARY:🇦🇷 Argentina x 🇪🇬 Egito
 DESCRIPTION:Oitavos de Final - Jogo 95 | Mundial 2026
 LOCATION:Mercedes-Benz Stadium\, Atlanta
 STATUS:CONFIRMED
@@ -961,7 +961,7 @@ BEGIN:VEVENT
 UID:mundial2026-96@tiago
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-SUMMARY:Vencedor J85 x Vencedor J87
+SUMMARY:🇨🇭 Suíça x 🇨🇴 Colômbia
 DESCRIPTION:Oitavos de Final - Jogo 96 | Mundial 2026
 LOCATION:BC Place\, Vancouver
 STATUS:CONFIRMED
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 UID:mundial2026-q97@tiago
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
-SUMMARY:A definir
+SUMMARY:🇲🇦 Marrocos x 🇫🇷 França
 DESCRIPTION:Quartos de Final - Jogo 97 | Mundial 2026
 LOCATION:Gillette Stadium\, Boston
 STATUS:CONFIRMED
@@ -981,7 +981,7 @@ BEGIN:VEVENT
 UID:mundial2026-q98@tiago
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
-SUMMARY:A definir
+SUMMARY:🇪🇸 Espanha x 🇧🇪 Bélgica
 DESCRIPTION:Quartos de Final - Jogo 98 | Mundial 2026
 LOCATION:SoFi Stadium\, Los Angeles
 STATUS:CONFIRMED
@@ -991,7 +991,7 @@ BEGIN:VEVENT
 UID:mundial2026-q99@tiago
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-SUMMARY:A definir
+SUMMARY:🇳🇴 Noruega x 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra
 DESCRIPTION:Quartos de Final - Jogo 99 | Mundial 2026
 LOCATION:Hard Rock Stadium\, Miami
 STATUS:CONFIRMED
@@ -1021,7 +1021,7 @@ BEGIN:VEVENT
 UID:mundial2026-sf2@tiago
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-SUMMARY:Final 2 - A definir
+SUMMARY:A definir
 DESCRIPTION:Meia-Final | Mundial 2026
 LOCATION:Mercedes-Benz Stadium\, Atlanta
 STATUS:CONFIRMED
