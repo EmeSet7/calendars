@@ -951,7 +951,7 @@ BEGIN:VEVENT
 UID:mundial2026-95@tiago
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-SUMMARY:🇦🇷 Argentina x 🇪🇬 Egito
+SUMMARY:🇦🇷 Argentina x 🇪🇬 Egito (3-2)
 DESCRIPTION:Oitavos de Final - Jogo 95 | Mundial 2026
 LOCATION:Mercedes-Benz Stadium\, Atlanta
 STATUS:CONFIRMED
@@ -961,7 +961,7 @@ BEGIN:VEVENT
 UID:mundial2026-96@tiago
 DTSTART:20260707T200000Z
 DTEND:20260707T220000Z
-SUMMARY:🇨🇭 Suíça x 🇨🇴 Colômbia
+SUMMARY:🇨🇭 Suíça x 🇨🇴 Colômbia (0-0, 4-3 gp)
 DESCRIPTION:Oitavos de Final - Jogo 96 | Mundial 2026
 LOCATION:BC Place\, Vancouver
 STATUS:CONFIRMED
@@ -1001,7 +1001,7 @@ BEGIN:VEVENT
 UID:mundial2026-q100@tiago
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-SUMMARY:A definir
+SUMMARY:🇦🇷 Argentina x 🇨🇭 Suíça
 DESCRIPTION:Quartos de Final - Jogo 100 | Mundial 2026
 LOCATION:Arrowhead Stadium\, Kansas City
 STATUS:CONFIRMED
